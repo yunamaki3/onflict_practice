@@ -1,4 +1,4 @@
 # favorite food
 
-apple plus banana
-plus grape
+apple and peach
+plus mango
